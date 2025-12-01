@@ -1,0 +1,4 @@
+Per far partire il codice:
+inserire nella directory giusta questi comandi:
+1. export PATH=${PATH}:/usr/local/cuda-13.0/bin
+2. export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/cuda-13.0/lib64
